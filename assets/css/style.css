@@ -80,6 +80,7 @@ main {
     font-family: Arial;
     float: left;
     margin: 0 25px 25px 0;
+    height: 80 px;
 }
 .img-banner {
     position: absolute;
